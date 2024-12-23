@@ -1,0 +1,6 @@
+{
+    "require": {
+        "paypal/paypal-payouts-sdk": "~1.0.0",
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
